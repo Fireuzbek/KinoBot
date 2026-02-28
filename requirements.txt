@@ -1,4 +1,6 @@
 aiogram
 python-dotenv
 reportlab
+aiosqlite
+
 
